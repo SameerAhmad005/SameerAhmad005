@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
-- 👨‍💻 All of my projects are available at [codersamir.me](codersamir.me)
+- 👨‍💻 All of my projects are available at [codersamir.me](http://codersamir.me)
 
 - 💬 Ask me about **Ethical Hacking**
 
 - 📫 How to reach me **official.samir.ansari05@gmail.com**
 
-- 📄 Know about my experiences [codersamir.me/resume](codersamir.me/resume)
+- 📄 Know about my experiences [codersamir.me/resume](http://codersamir.me/resume)
 
 - ⚡ Fun fact **I think "silence speaks louder than noise".**
 
