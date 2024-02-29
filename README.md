@@ -1,7 +1,7 @@
 [![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)](https://coedrsamir.me)
 <h1 align="center">Hi 👋, I'm Sameer Ahmad</h1>
 <h3 align="center">A passionate Cybersecurity Professional from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d9/e2/04/d9e204421993bf70b7bd72bbebadf0ed.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerahmad005&label=Profile%20views&color=0e75b6&style=flat" alt="sameerahmad005" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sameeransari005" target="blank"><img src="https://img.shields.io/twitter/follow/sameeransari005?logo=twitter&style=for-the-badge" alt="sameeransari005" /></a> </p>
