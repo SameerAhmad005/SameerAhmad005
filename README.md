@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Ahmad</h1>
 <h3 align="center">A passionate Cybersecurity Professional from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d9/e2/04/d9e204421993bf70b7bd72bbebadf0ed.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeerahmad005&label=Profile%20views&color=0e75b6&style=flat" alt="sameeerahmad005" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerahmad005&label=Profile%20views&color=0e75b6&style=flat" alt="sameerahmad005" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sameeransari005" target="blank"><img src="https://img.shields.io/twitter/follow/sameeransari005?logo=twitter&style=for-the-badge" alt="sameeransari005" /></a> </p>
 
@@ -34,8 +33,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sameerahmad005"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sameerahmad005" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameeerahmad005&show_icons=true&locale=en&layout=compact" alt="sameeerahmad005" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameerahmad005&show_icons=true&locale=en&layout=compact" alt="sameerahmad005" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameeerahmad005&show_icons=true&locale=en" alt="sameeerahmad005" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerahmad005&show_icons=true&locale=en" alt="sameerahmad005" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameeerahmad005&" alt="sameeerahmad005" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerahmad005&" alt="sameerahmad005" /></p>
