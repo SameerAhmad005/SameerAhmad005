@@ -1,9 +1,9 @@
 [![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)](https://coedrsamir.me)
+# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Sameer Ahmad</h1>
 <h3 align="center">A passionate Cybersecurity Professional from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerahmad005&label=Profile%20views&color=0e75b6&style=flat" alt="sameerahmad005" /> </p>
-# 💫 About Me:
 🌱 I’m currently learning Ethical Hacking<br>👨‍💻 All of my projects are available at codersamir.me<br>💬 Ask me about Ethical Hacking<br>📫 How to reach me official.samir.ansari05@gmail.com<br>📄 Know about my experiences codersamir.me/resume<br>⚡ Fun fact I think "silence speaks louder than noise".
 
 
@@ -26,8 +26,16 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sameerahmad005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=sameerahmad005&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sameerahmad005) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/SameerAhmad005) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://api.memegen.link/images/rollsafe/When_you_have_a_really_good_idea.webp?layout=top' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sameerahmad005&icon=0&color=0)](https://visitcount.itsvg.in)
