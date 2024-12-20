@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Cybersecurity Professional from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerahmad005&label=Profile%20views&color=0e75b6&style=flat" alt="sameerahmad005" /> </p>
-🌱 I’m currently learning Ethical Hacking<br>👨‍💻 All of my projects are available at <a href="codersamir.me">codersamir.me</a><br>💬 Ask me about Ethical Hacking<br>📫 How to reach me codersamir@hotmail.com<br>📄 Know about my experiences <a href="codersamir.me/resume">codersamir.me/resume</a><br>⚡ Fun fact I think "silence speaks louder than noise".
+🌱 I’m currently learning Ethical Hacking<br>👨‍💻 All of my projects are available at <a href="https://codersamir.me">codersamir.me</a><br>💬 Ask me about Ethical Hacking<br>📫 How to reach me codersamir@hotmail.com<br>📄 Know about my experiences <a href="https://codersamir.me/resume">codersamir.me/resume</a><br>⚡ Fun fact I think "silence speaks louder than noise".
 
 
 ## 🌐 Socials:
